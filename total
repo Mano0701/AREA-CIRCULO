@@ -1,0 +1,13 @@
+Algoritmo "Area de um circulo"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Neiva larisane
+// Descrição   : Diametro de um circulo
+// Autor(a)    : Ismael fernandes dinnebier
+// Data atual  : 27/03/2023
+Var
+   diametro : real
+Inicio
+   Escreval ("Digite uma medida para o diametro")
+   Leia (diametro)
+   Escreval (" A area do circulo e de : ",(pi * diametro * diametro)/4)
+Fimalgoritmo
