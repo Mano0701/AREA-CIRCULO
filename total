@@ -9,5 +9,5 @@ Var
 Inicio
    Escreval ("Digite uma medida para o diametro")
    Leia (diametro)
-   Escreval ("A area do circulo e de: ",(pi * diametro * diametro)/4)
+   Escreval ("A area do circulo e de: ",(pi * diametro * diametro)/4:5:3)
 Fimalgoritmo
